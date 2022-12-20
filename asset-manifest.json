@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://olitreadwell.github.io/csb-hvzcp4/static/css/main.2dd07587.chunk.css",
+    "main.js": "https://olitreadwell.github.io/csb-hvzcp4/static/js/main.4289f431.chunk.js",
+    "main.js.map": "https://olitreadwell.github.io/csb-hvzcp4/static/js/main.4289f431.chunk.js.map",
+    "runtime-main.js": "https://olitreadwell.github.io/csb-hvzcp4/static/js/runtime-main.22248ec2.js",
+    "runtime-main.js.map": "https://olitreadwell.github.io/csb-hvzcp4/static/js/runtime-main.22248ec2.js.map",
+    "static/js/2.a787e657.chunk.js": "https://olitreadwell.github.io/csb-hvzcp4/static/js/2.a787e657.chunk.js",
+    "static/js/2.a787e657.chunk.js.map": "https://olitreadwell.github.io/csb-hvzcp4/static/js/2.a787e657.chunk.js.map",
+    "index.html": "https://olitreadwell.github.io/csb-hvzcp4/index.html",
+    "static/css/main.2dd07587.chunk.css.map": "https://olitreadwell.github.io/csb-hvzcp4/static/css/main.2dd07587.chunk.css.map",
+    "static/js/2.a787e657.chunk.js.LICENSE.txt": "https://olitreadwell.github.io/csb-hvzcp4/static/js/2.a787e657.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22248ec2.js",
+    "static/js/2.a787e657.chunk.js",
+    "static/css/main.2dd07587.chunk.css",
+    "static/js/main.4289f431.chunk.js"
+  ]
+}
